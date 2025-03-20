@@ -1,5 +1,5 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello from problem child");
+        System.out.println("Hello from conflict3");
     }
 }
